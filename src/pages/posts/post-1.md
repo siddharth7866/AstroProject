@@ -11,7 +11,7 @@ tags: ["astro", "blogging", "learning in public"]
 # My First Blog Post Siddharth
 <a href="/">Home</a>
 Published on: 2022-07-01
-[About](http://localhost:4321/)
+[About](https://astrosiddharth.netlify.app/about/)
 
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
 
